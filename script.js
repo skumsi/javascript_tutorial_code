@@ -189,7 +189,6 @@ while(i<names.length){
 	i++;
 }
 ===== Coding challenge 2 ==========
-*/
 var years_1=[1991,1992,1993,2000];
 var years_2=[1995,1996,2005,1999];
 var full_1 = [];
@@ -209,6 +208,10 @@ function printFullAge(years,result) {
 }
 console.log(printFullAge(years_1,full_1));
 console.log(printFullAge(years_2,full_2));
+=========Pracitcing Git===========
+//Just made an intital commit
+//All this js code is now online in javascript_tutorial_code repsitory
+*/
 
 
 
